@@ -4,11 +4,11 @@
     <PropertyGroup>
         <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
         <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-        <ProjectGuid>{2414E185-E108-4042-92CD-00B0DBBB2F9D}</ProjectGuid>
+        <ProjectGuid>{30493A86-83BE-4BE0-904B-F9F25791C52D}</ProjectGuid>
         <OutputType>Exe</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
-        <RootNamespace>AdventOfCode2020</RootNamespace>
-        <AssemblyName>AdventOfCode2020-Day1-1</AssemblyName>
+        <RootNamespace>AdventOfCode_Day3</RootNamespace>
+        <AssemblyName>AdventOfCode_Day3</AssemblyName>
         <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
     </PropertyGroup>
