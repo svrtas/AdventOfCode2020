@@ -26,11 +26,12 @@
   <component name="ChangeListManager">
     <list default="true" id="92b97852-5e83-42cb-b46f-d5d99af1235d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AdventOfCode2020/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AdventOfCode2020/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day2/bin/Debug/AdventOfCode2020_Day2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day2/bin/Debug/AdventOfCode2020_Day2.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day2/bin/Debug/AdventOfCode2020_Day2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day2/bin/Debug/AdventOfCode2020_Day2.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day2/obj/Debug/AdventOfCode2020_Day2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day2/obj/Debug/AdventOfCode2020_Day2.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day2/obj/Debug/AdventOfCode2020_Day2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day2/obj/Debug/AdventOfCode2020_Day2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day3/Instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day3/Instructions.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AdventOfCode-Day3/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day3/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day3/bin/Debug/AdventOfCode_Day3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day3/bin/Debug/AdventOfCode_Day3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day3/bin/Debug/AdventOfCode_Day3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day3/bin/Debug/AdventOfCode_Day3.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day3/obj/Debug/AdventOfCode_Day3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day3/obj/Debug/AdventOfCode_Day3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day3/obj/Debug/AdventOfCode_Day3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day3/obj/Debug/AdventOfCode_Day3.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,8 +58,8 @@
         <option value="$PROJECT_DIR$/AdventOfCode2020-Day2/input.txt" />
         <option value="$PROJECT_DIR$/AdventOfCode2020-Day2/Instructions.txt" />
         <option value="$PROJECT_DIR$/AdventOfCode2020-Day2/Program.cs" />
-        <option value="$PROJECT_DIR$/AdventOfCode-Day3/Instructions.txt" />
         <option value="$PROJECT_DIR$/AdventOfCode-Day3/input.txt" />
+        <option value="$PROJECT_DIR$/AdventOfCode-Day3/Instructions.txt" />
         <option value="$PROJECT_DIR$/AdventOfCode-Day3/Program.cs" />
       </list>
     </option>
@@ -141,7 +142,7 @@
       <updated>1606835886488</updated>
       <workItem from="1606835898796" duration="717000" />
       <workItem from="1606836664577" duration="5723000" />
-      <workItem from="1606992617883" duration="1821000" />
+      <workItem from="1606992617883" duration="3173000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit 2">
       <created>1606836683813</created>
@@ -178,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606992841691</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Solved Part 1 of Day 3">
+      <created>1606994737768</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606994737768</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,25 +213,26 @@
     <MESSAGE value="Added project for AoC day 2" />
     <MESSAGE value="Finished AoC Day 2" />
     <MESSAGE value="Added files for AoC Day 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added files for AoC Day 3" />
+    <MESSAGE value="Solved Part 1 of Day 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved Part 1 of Day 3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1363" height="235" key="GridCell.Tab.0.bottom" timestamp="1606994089955">
+    <state width="1363" height="235" key="GridCell.Tab.0.bottom" timestamp="1606995262285">
       <screen x="0" y="0" width="1406" height="899" />
     </state>
-    <state width="1363" height="235" key="GridCell.Tab.0.bottom/0.0.1406.899@0.0.1406.899" timestamp="1606994089955" />
-    <state width="1363" height="235" key="GridCell.Tab.0.center" timestamp="1606994089954">
+    <state width="1363" height="235" key="GridCell.Tab.0.bottom/0.0.1406.899@0.0.1406.899" timestamp="1606995262285" />
+    <state width="1363" height="235" key="GridCell.Tab.0.center" timestamp="1606995262285">
       <screen x="0" y="0" width="1406" height="899" />
     </state>
-    <state width="1363" height="235" key="GridCell.Tab.0.center/0.0.1406.899@0.0.1406.899" timestamp="1606994089954" />
-    <state width="1363" height="235" key="GridCell.Tab.0.left" timestamp="1606994089954">
+    <state width="1363" height="235" key="GridCell.Tab.0.center/0.0.1406.899@0.0.1406.899" timestamp="1606995262285" />
+    <state width="1363" height="235" key="GridCell.Tab.0.left" timestamp="1606995262285">
       <screen x="0" y="0" width="1406" height="899" />
     </state>
-    <state width="1363" height="235" key="GridCell.Tab.0.left/0.0.1406.899@0.0.1406.899" timestamp="1606994089954" />
-    <state width="1363" height="235" key="GridCell.Tab.0.right" timestamp="1606994089955">
+    <state width="1363" height="235" key="GridCell.Tab.0.left/0.0.1406.899@0.0.1406.899" timestamp="1606995262285" />
+    <state width="1363" height="235" key="GridCell.Tab.0.right" timestamp="1606995262285">
       <screen x="0" y="0" width="1406" height="899" />
     </state>
-    <state width="1363" height="235" key="GridCell.Tab.0.right/0.0.1406.899@0.0.1406.899" timestamp="1606994089955" />
+    <state width="1363" height="235" key="GridCell.Tab.0.right/0.0.1406.899@0.0.1406.899" timestamp="1606995262285" />
     <state x="296" y="181" key="Rider.ProjectTemplateDialog.Size" timestamp="1606992665887">
       <screen x="0" y="0" width="1406" height="899" />
     </state>
