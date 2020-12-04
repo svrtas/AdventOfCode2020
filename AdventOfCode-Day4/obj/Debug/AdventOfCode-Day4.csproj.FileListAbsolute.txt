@@ -1,0 +1,6 @@
+C:\Users\stell\RiderProjects\AdventOfCode2020\AdventOfCode-Day4\bin\Debug\AdventOfCode_Day4.exe
+C:\Users\stell\RiderProjects\AdventOfCode2020\AdventOfCode-Day4\bin\Debug\AdventOfCode_Day4.pdb
+C:\Users\stell\RiderProjects\AdventOfCode2020\AdventOfCode-Day4\obj\Debug\AdventOfCode-Day4.csprojAssemblyReference.cache
+C:\Users\stell\RiderProjects\AdventOfCode2020\AdventOfCode-Day4\obj\Debug\AdventOfCode-Day4.csproj.CoreCompileInputs.cache
+C:\Users\stell\RiderProjects\AdventOfCode2020\AdventOfCode-Day4\obj\Debug\AdventOfCode_Day4.exe
+C:\Users\stell\RiderProjects\AdventOfCode2020\AdventOfCode-Day4\obj\Debug\AdventOfCode_Day4.pdb
