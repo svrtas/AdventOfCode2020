@@ -27,61 +27,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92b97852-5e83-42cb-b46f-d5d99af1235d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AdventOfCode-Day04/Instructions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdventOfCode-Day05/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AdventOfCode2020/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AdventOfCode2020/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AdventOfCode2020/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AdventOfCode2020/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day1/AdventOfCode-Day1.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day01/AdventOfCode-Day01.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day1/Instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day01/Instructions.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day01/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day1/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day01/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day1/bin/Debug/AdventOfCode-Day1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day01/bin/Debug/AdventOfCode-Day01.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day1/bin/Debug/AdventOfCode-Day1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day01/bin/Debug/AdventOfCode-Day01.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day1/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day01/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day1/obj/Debug/AdventOfCode2020-Day1-1.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day01/obj/Debug/AdventOfCode2020-Day1-1.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day1/obj/Debug/AdventOfCode2020-Day1-1.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day01/obj/Debug/AdventOfCode2020-Day1-1.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day1/obj/Debug/AdventOfCode2020-Day1-1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day01/obj/Debug/AdventOfCode2020-Day1-1.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day1/obj/Debug/AdventOfCode2020-Day1-1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day01/obj/Debug/AdventOfCode2020-Day1-1.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day1/obj/Debug/AdventOfCode2020-Day1-1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day01/obj/Debug/AdventOfCode2020-Day1-1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day1/obj/Debug/AdventOfCode2020.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day01/obj/Debug/AdventOfCode2020.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day2/AdventOfCode-Day2.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day02/AdventOfCode-Day02.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day2/Instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day02/Instructions.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day02/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day2/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day02/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day2/bin/Debug/AdventOfCode2020_Day2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day02/bin/Debug/AdventOfCode2020_Day2.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day2/bin/Debug/AdventOfCode2020_Day2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day02/bin/Debug/AdventOfCode2020_Day2.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day2/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day02/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day2/obj/Debug/AdventOfCode-Day2.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day02/obj/Debug/AdventOfCode-Day2.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day2/obj/Debug/AdventOfCode-Day2.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day02/obj/Debug/AdventOfCode-Day2.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day2/obj/Debug/AdventOfCode-Day2.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day02/obj/Debug/AdventOfCode-Day2.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day2/obj/Debug/AdventOfCode2020-Day2.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day02/obj/Debug/AdventOfCode2020-Day2.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day2/obj/Debug/AdventOfCode2020-Day2.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day02/obj/Debug/AdventOfCode2020-Day2.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day2/obj/Debug/AdventOfCode2020-Day2.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day02/obj/Debug/AdventOfCode2020-Day2.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day2/obj/Debug/AdventOfCode2020_Day2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day02/obj/Debug/AdventOfCode2020_Day2.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day2/obj/Debug/AdventOfCode2020_Day2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day02/obj/Debug/AdventOfCode2020_Day2.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day3/AdventOfCode-Day3.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day03/AdventOfCode-Day03.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day3/Instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day03/Instructions.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day3/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day03/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day3/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day03/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day3/bin/Debug/AdventOfCode_Day3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day03/bin/Debug/AdventOfCode_Day3.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day3/bin/Debug/AdventOfCode_Day3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day03/bin/Debug/AdventOfCode_Day3.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day3/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day03/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day3/obj/Debug/AdventOfCode-Day3.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day03/obj/Debug/AdventOfCode-Day3.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day3/obj/Debug/AdventOfCode-Day3.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day03/obj/Debug/AdventOfCode-Day3.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day3/obj/Debug/AdventOfCode-Day3.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day03/obj/Debug/AdventOfCode-Day3.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day3/obj/Debug/AdventOfCode_Day3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day03/obj/Debug/AdventOfCode_Day3.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day3/obj/Debug/AdventOfCode_Day3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day03/obj/Debug/AdventOfCode_Day3.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day4/AdventOfCode-Day4.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day04/AdventOfCode-Day04.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day4/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day04/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day4/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day04/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day4/bin/Debug/AdventOfCode_Day4.exe" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day04/bin/Debug/AdventOfCode_Day4.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day4/bin/Debug/AdventOfCode_Day4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day04/bin/Debug/AdventOfCode_Day4.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day4/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day04/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day4/obj/Debug/AdventOfCode-Day4.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day04/obj/Debug/AdventOfCode-Day4.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day4/obj/Debug/AdventOfCode-Day4.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day04/obj/Debug/AdventOfCode-Day4.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day4/obj/Debug/AdventOfCode-Day4.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day04/obj/Debug/AdventOfCode-Day4.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day4/obj/Debug/AdventOfCode_Day4.exe" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day04/obj/Debug/AdventOfCode_Day4.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day4/obj/Debug/AdventOfCode_Day4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day04/obj/Debug/AdventOfCode_Day4.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode2020.sln" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2020.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day05/AdventOfCode-Day05.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day05/AdventOfCode-Day05.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdventOfCode-Day05/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode-Day05/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,8 +65,9 @@
         <option value="$PROJECT_DIR$/AdventOfCode-Day3/Program.cs" />
         <option value="$PROJECT_DIR$/AdventOfCode-Day4/input.txt" />
         <option value="$PROJECT_DIR$/AdventOfCode-Day4/Program.cs" />
-        <option value="$PROJECT_DIR$/AdventOfCode-Day05/Program.cs" />
         <option value="$PROJECT_DIR$/AdventOfCode-Day04/Instructions.txt" />
+        <option value="$PROJECT_DIR$/AdventOfCode-Day05/Program.cs" />
+        <option value="$PROJECT_DIR$/AdventOfCode-Day05/input.txt" />
       </list>
     </option>
   </component>
@@ -133,7 +84,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.AdventOfCode-Day4">
+  <component name="RunManager" selected=".NET Project.AdventOfCode-Day05">
     <configuration name="AdventOfCode-Day05" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -235,7 +186,8 @@
       <updated>1606835886488</updated>
       <workItem from="1606835898796" duration="717000" />
       <workItem from="1606836664577" duration="5723000" />
-      <workItem from="1606992617883" duration="12023000" />
+      <workItem from="1606992617883" duration="12560000" />
+      <workItem from="1607179975867" duration="1166000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit 2">
       <created>1606836683813</created>
@@ -300,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607179232318</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Refactoring">
+      <created>1607179375135</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1607179375135</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -331,25 +290,26 @@
     <MESSAGE value="Solved Part 2 of Day 3" />
     <MESSAGE value="Solved Day 4" />
     <MESSAGE value="Added project for Day 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added project for Day 5" />
+    <MESSAGE value="Refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactoring" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1363" height="185" key="GridCell.Tab.0.bottom" timestamp="1607083421959">
+    <state width="1363" height="185" key="GridCell.Tab.0.bottom" timestamp="1607181120673">
       <screen x="0" y="0" width="1406" height="899" />
     </state>
-    <state width="1363" height="185" key="GridCell.Tab.0.bottom/0.0.1406.899@0.0.1406.899" timestamp="1607083421959" />
-    <state width="1363" height="185" key="GridCell.Tab.0.center" timestamp="1607083421959">
+    <state width="1363" height="185" key="GridCell.Tab.0.bottom/0.0.1406.899@0.0.1406.899" timestamp="1607181120673" />
+    <state width="1363" height="185" key="GridCell.Tab.0.center" timestamp="1607181120673">
       <screen x="0" y="0" width="1406" height="899" />
     </state>
-    <state width="1363" height="185" key="GridCell.Tab.0.center/0.0.1406.899@0.0.1406.899" timestamp="1607083421959" />
-    <state width="1363" height="185" key="GridCell.Tab.0.left" timestamp="1607083421959">
+    <state width="1363" height="185" key="GridCell.Tab.0.center/0.0.1406.899@0.0.1406.899" timestamp="1607181120673" />
+    <state width="1363" height="185" key="GridCell.Tab.0.left" timestamp="1607181120673">
       <screen x="0" y="0" width="1406" height="899" />
     </state>
-    <state width="1363" height="185" key="GridCell.Tab.0.left/0.0.1406.899@0.0.1406.899" timestamp="1607083421959" />
-    <state width="1363" height="185" key="GridCell.Tab.0.right" timestamp="1607083421959">
+    <state width="1363" height="185" key="GridCell.Tab.0.left/0.0.1406.899@0.0.1406.899" timestamp="1607181120673" />
+    <state width="1363" height="185" key="GridCell.Tab.0.right" timestamp="1607181120673">
       <screen x="0" y="0" width="1406" height="899" />
     </state>
-    <state width="1363" height="185" key="GridCell.Tab.0.right/0.0.1406.899@0.0.1406.899" timestamp="1607083421959" />
+    <state width="1363" height="185" key="GridCell.Tab.0.right/0.0.1406.899@0.0.1406.899" timestamp="1607181120673" />
     <state x="296" y="181" key="Rider.ProjectTemplateDialog.Size" timestamp="1607179211878">
       <screen x="0" y="0" width="1406" height="899" />
     </state>
