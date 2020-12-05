@@ -8,7 +8,7 @@
         <OutputType>Exe</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
         <RootNamespace>AdventOfCode2020</RootNamespace>
-        <AssemblyName>AdventOfCode-Day1</AssemblyName>
+        <AssemblyName>AdventOfCode-Day01</AssemblyName>
         <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
     </PropertyGroup>
